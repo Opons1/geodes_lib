@@ -1,7 +1,7 @@
 Parts of code are taken from geodes mod by AwesomeDragon97, licensed under LGPL3.0
 Modfied by alerikaisattera
 Additions by backdaniel and JoeEnderman
-Modified again by Opons1 for Opons World(99.3% of lag)
+Modified again by Opons1 for Opons World(99.3% of lag at one point, maybe this wont be as laggy?)
 GNU LESSER GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007
 
