@@ -5,6 +5,7 @@ local mapgen_registered = false
 local c_air = core.get_content_id("air")
 
 local function generate_geode_vm(pos, radius, inner_cid, inner_alt_cid, inner_alt_chance, shell_cids, data, area)
+    if true then return end
     local shell_count = #shell_cids
     local total_radius = radius + 1 + shell_count
     
